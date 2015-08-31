@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.12.5)  30 AUG 2015 19:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.12.5)  31 AUG 2015 21:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -515,10 +515,10 @@ e
 ABD: EveryShipout initializing macros [1{/usr/local/texlive/2013/texmf-var/font
 s/map/pdftex/updmap/pdftex.map}] (./flow_chart.aux) ) 
 Here is how much of TeX's memory you used:
- 11224 strings out of 493315
- 210037 string characters out of 6137904
+ 11218 strings out of 493315
+ 209971 string characters out of 6137904
  255092 words of memory out of 5000000
- 14289 multiletter control sequences out of 15000+600000
+ 14283 multiletter control sequences out of 15000+600000
  9941 words of font info for 39 fonts, out of 8000000 for 9000
  1118 hyphenation exceptions out of 8191
  56i,8n,55p,423b,784s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -528,7 +528,7 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2013/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2013/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on flow_chart.pdf (1 page, 44038 bytes).
+Output written on flow_chart.pdf (1 page, 43992 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
