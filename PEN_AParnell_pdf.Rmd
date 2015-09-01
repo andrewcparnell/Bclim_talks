@@ -32,6 +32,10 @@ The resulting map should have quantified uncertainties
 ## General approach
 
 <center><img src="flow_chart.png" width=90%/></center>
+\begin{center}
+\includegraphics[width=10cm]{flow_chart.png}
+\end{center}
+
 
 Idea: model the data generating process and constrain this with 'reasonable’ climate change
 
@@ -43,10 +47,16 @@ Idea: model the data generating process and constrain this with 'reasonable’ c
 ## Monticchio pollen inputs
 
 <center><img src="Monticchio_pollen.png" width=70%/></center>
+\begin{center}
+\includegraphics[width=10cm]{Monticchio_pollen.png}
+\end{center}
 
 ## Monticchio climate outputs
 
 <center><img src="Monticchio_AETPET.png" width=100%/></center>
+\begin{center}
+\includegraphics[width=10cm]{Monticchio_AETPET.png}
+\end{center}
 
 ## Monticchio technical details
 
@@ -62,10 +72,16 @@ We call this set of assumptions the <span style="color:red">__forward model__</s
 ## New Jersey foramnifera inputs
 
 <center><img src="RSL_input.png" height=20%/></center>
+\begin{center}
+\includegraphics[width=4cm]{RSL_input.png}
+\end{center}
 
 ## New Jersey sea level outputs
 
 <center><img src="RSL_output.png" width=70%/></center>
+\begin{center}
+\includegraphics[width=10cm]{RSL_output.png}
+\end{center}
 
 ## New Jersey technical details
 
